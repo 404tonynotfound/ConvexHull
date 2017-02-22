@@ -1,0 +1,7 @@
+Anthony Mikhail - Project 1
+The program runs as expected. Output points follow the correct format. 
+Style and formatting is correct to my knowledge.
+Program reads the input from the input.txt file, to test different points, 
+change the points in the file, feel free to add as many as you would like to 
+test. The scanner will detect the number of points, as long as each points is 
+on its own line in the file.
